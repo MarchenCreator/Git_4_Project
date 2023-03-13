@@ -10,5 +10,6 @@ func main() {
 	fmt.Println("分支代码3")
 	fmt.Println("主代码合并后-1")
 	fmt.Println("网页端修改")
+	fmt.Println("goland端pull后修改")
 
 }
